@@ -1,4 +1,7 @@
-## Hi there 👋
+# Eu sou Samuel Evangelista
+### Estou estudando no Alura
+### Estou me desenvolvendo na linguagem JavaScript
+### Estou usando esse espaço para desenvolver meus projetos
 
 <!--
 **PoderosoSamuel/PoderosoSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
